@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #F0F0F0;
+}
+#audios{
+    
+    width: 300px;
+    height: 300px;
+}
+
+.v1{
+    width: 300px;
+    height: 250px;
+    margin-top: 4px;
+
+}
